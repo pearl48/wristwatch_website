@@ -20,7 +20,7 @@ Running the Application
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/wristwatch-collection.git
+............
 Navigate to the project directory:
 bash
 Copy code
